@@ -9,6 +9,7 @@ public class Main {
         System.out.println(pr);
         System.out.println();
 
+
     // Pruebas Ej2
         CestaCompra cc = new CestaCompra(30);
         cc.addElemento(pg);
